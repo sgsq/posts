@@ -1,0 +1,112 @@
+2018/7/29 15:08:45 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -ss 392 -sync video http://replay.xescdn.com/livecourse/e12538ef941114de7df037a73ddc4bdd92985.flv.mp4 MP_0844436_5 MP_0844436_6
+2018/7/29 15:09:09 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo http://v2.xesv5.com/9842117974fb5fc9f56356ea33a80f9d/v.m3u8 MP_0909065_7 MP_0909065_8
+2018/7/30 9:58:09 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -ss 6030 -sync video http://replay.xescdn.com/livecourse/48a8e55af17c0912b3a3616d3320b83186759.flv.mp4 MP_5808063_3 MP_5808063_4
+2018/7/30 9:58:09 "D:\Program Files (x86)\XesLiveClient\Xes_Live_v1.5.6\AudioAccess.exe"  ASS_5808260_2 2475791 "" "" 86759 2 -1 1
+2018/7/30 9:58:10 \??\C:\Windows\system32\conhost.exe "116036708-1169342441-10027740621523801653-19153889631886465760-19834185852055605679
+2018/7/31 10:12:07 \??\C:\Windows\system32\conhost.exe "1322033367-1203059650135150867-205923206711351637172124697833-722229648833911899
+2018/7/31 10:12:07 "D:\Program Files (x86)\XesLiveClient\Xes_Live_v1.5.6\AudioAccess.exe"  ASS_1205758_1 2475791 "" "" 86764 3 -1 0
+2018/7/31 10:12:08 xesavp.exe  -analyzeduration 2000000 -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo rtmp://61.147.225.18/live_server/x_3_86764?wsiphost=ipdb&wsHost=livewangsu.xescdn.com&13852138683@talwx.com MP_1206241_1 MP_1206241_2
+2018/7/31 10:12:12 SndVol.exe -f 57935177 15208
+2018/7/31 10:12:17 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:12:17 \??\C:\Windows\system32\conhost.exe "-540859433567073171-2103328857-2005743150-128302416581732601127722600646096911
+2018/7/31 10:12:26 \??\C:\Windows\system32\conhost.exe "-78970677721275875261601822816-483677317191091219-12209278131358697884-1982188133
+2018/7/31 10:12:26 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:12:35 \??\C:\Windows\system32\conhost.exe "-2263967791906603087-1019026852-2791406548117160882019910672019551173-380554982
+2018/7/31 10:12:35 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:12:45 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:12:45 \??\C:\Windows\system32\conhost.exe "362254925669275881753602375-1066081736212987375842029543-12810492557203166
+2018/7/31 10:12:55 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:12:55 \??\C:\Windows\system32\conhost.exe "-10316804101042544154-979488335861123826-1124591011-1407241121-1626497127531615
+2018/7/31 10:13:05 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:13:05 \??\C:\Windows\system32\conhost.exe "-1574606784-162039770838528569-10738227871220052454964540306-2421741441849806482
+2018/7/31 10:13:15 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:13:16 \??\C:\Windows\system32\conhost.exe "-1158050533-920009087-25900494-320994789-878601630-1464805853-1535961495261541074
+2018/7/31 10:13:26 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:13:26 \??\C:\Windows\system32\conhost.exe "607307002-214121636219684131651254225973-1717579534-11610542371168536508-1490873720
+2018/7/31 10:13:36 \??\C:\Windows\system32\conhost.exe "1838980037394772817-1960823991435664041-1850194208-414273329-413185171-1751643809
+2018/7/31 10:13:36 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:13:45 "C:\Program Files (x86)\Tencent\QQBrowser\QQBrowser.exe" --type=prefetch
+2018/7/31 10:13:45 "C:\Program Files (x86)\Tencent\QQBrowser\QQBrowser.exe" -host=extension -independentmode=2 -extensionlist={66AC5389-365D-4B55-BF5C-5A2A4BC21CCD}
+2018/7/31 10:13:46 \??\C:\Windows\system32\conhost.exe "-1076310492193985232-1654291880-1066181917980418903679499318387298082-748835707
+2018/7/31 10:13:46 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:13:56 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:13:56 \??\C:\Windows\system32\conhost.exe "12585242451016555860-1208378524842950755-902336095-1894875634-7023151771402534043
+2018/7/31 10:14:06 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:14:06 \??\C:\Windows\system32\conhost.exe "-606106792-584324038-1269145273106088215-123634611048473517151142172307552120
+2018/7/31 10:14:16 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:14:16 \??\C:\Windows\system32\conhost.exe "595449009-1593495212-6337289011433123487-2002286542988438509-1126011982-2027896260
+2018/7/31 10:14:26 \??\C:\Windows\system32\conhost.exe "-1482300970-1073906603-825876852-291830444-1957021797-20320917071242773099-1410545907
+2018/7/31 10:14:26 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:14:35 \??\C:\Windows\system32\conhost.exe "-1796200247731626047-9131455891032226141266019512632659071-1670196845-1092814988
+2018/7/31 10:14:35 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:14:45 \??\C:\Windows\system32\conhost.exe "11957362520724868601020784845-894221931365592957-1730893283-481307161-2065405672
+2018/7/31 10:14:45 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:14:56 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:14:56 \??\C:\Windows\system32\conhost.exe "1911746223-488372814-671989928-18636242601765237242958331366-1598800704-1170297883
+2018/7/31 10:15:06 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:15:06 \??\C:\Windows\system32\conhost.exe "9881105066644154811385480498386692101127059938-2074155732-1575821401276991664
+2018/7/31 10:15:16 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:15:16 \??\C:\Windows\system32\conhost.exe "426978076679365836-1972039018183358114458869749713170434811560595626-447629280
+2018/7/31 10:15:26 \??\C:\Windows\system32\conhost.exe "15809712115006645848050958-26098414511108468891046317284765430991257877569
+2018/7/31 10:15:26 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:15:36 \??\C:\Windows\system32\conhost.exe "18010868151298155512201404613-79262441913443176015914250251016757485-184344808
+2018/7/31 10:15:36 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:15:46 \??\C:\Windows\system32\conhost.exe "-1799287421-284054251053032612087649729207105087623397105218796335561816910033
+2018/7/31 10:15:46 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:15:56 \??\C:\Windows\system32\conhost.exe "-9650728601915369880-135955801217456838731280337358201177829014470789011038023590
+2018/7/31 10:15:56 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:16:06 \??\C:\Windows\system32\conhost.exe "-464594859-1169933893-8217785551425727622-253950922436984163-942858319-62691873
+2018/7/31 10:16:06 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:16:16 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:16:16 \??\C:\Windows\system32\conhost.exe "-656100504-13661250311594860733-32137801169859369-308058588754619789-517937007
+2018/7/31 10:16:25 \??\C:\Windows\system32\conhost.exe "-3300288431649014458-186726812486224086525128121-137858515911557736452083838952
+2018/7/31 10:16:25 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:16:36 ping  -n 4 -w 500 -l 1000 218.3.213.42
+2018/7/31 10:16:36 \??\C:\Windows\system32\conhost.exe "-506497390765567642-1309046838-1204665884-189515434289603111912055567141493456981
+2018/7/31 12:57:16 SndVol.exe -f 58066258 8950
+2018/7/31 12:57:19 
+2018/7/31 12:58:35 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/dff055e2acc2f43fbd7169a17f49988692987.flv.mp4 MP_5834107_1 MP_5834107_2
+2018/7/31 12:58:41 "C:\Windows\system32\SearchFilterHost.exe" 0 512 516 524 65536 520 
+2018/7/31 12:58:41 "C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe21_ Global\UsGthrCtrlFltPipeMssGthrPipe21 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon" 
+2018/8/1 11:30:37 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xescdn.com/livecourse/963abe8d23cb75ec6712af50ef0671c492988.flv.mp4 MP_3036041_3 MP_3036041_4
+2018/8/1 11:36:06 "C:\Program Files (x86)\Tencent\QQBrowser\QQBrowser.exe" --type=prefetch
+2018/8/1 11:36:22 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/93902d527b979c645c1737b317965e5692983.flv.mp4 MP_3620939_1 MP_3620939_2
+2018/8/1 11:36:29 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -ss 1201 -sync video http://replay.xesv5.com/livecourse/d6fd9ebafa423a05e2a902ee14eb066392984.flv.mp4 MP_3628676_3 MP_3628676_4
+2018/8/1 11:36:34 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/e12538ef941114de7df037a73ddc4bdd92985.flv.mp4 MP_3633696_5 MP_3633696_6
+2018/8/1 11:36:38 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/9aae96c2e31dcf316544e074a742e0c592986.flv.mp4 MP_3637914_7 MP_3637914_8
+2018/8/1 11:36:39 "C:\Windows\system32\SearchFilterHost.exe" 0 512 516 524 65536 520 
+2018/8/1 11:36:43 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -ss 5 -sync video http://replay.xescdn.com/livecourse/dff055e2acc2f43fbd7169a17f49988692987.flv.mp4 MP_3643392_9 MP_3643392_10
+2018/8/1 11:36:49 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xescdn.com/livecourse/963abe8d23cb75ec6712af50ef0671c492988.flv.mp4 MP_3648313_11 MP_3648313_12
+2018/8/1 11:36:54 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/92e2078cb9cf15f85ab0b0f2ba89eded92989.flv.mp4 MP_3653738_13 MP_3653738_14
+2018/8/1 11:37:00 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xescdn.com/livecourse/c76179b0c1535f02713cd4b2d036bce592990.flv.mp4 MP_3659553_15 MP_3659553_16
+2018/8/1 11:37:05 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/8fb54be0e4ee9ba6372e83f1dd8e7eb692991.flv.mp4 MP_3704904_17 MP_3704904_18
+2018/8/1 11:37:10 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xescdn.com/livecourse/254a7a2d981d8ccaab589d029209488492992.flv.mp4 MP_3710584_19 MP_3710584_20
+2018/8/5 11:14:52 "D:\Program Files\Microsoft Mathematics\TriangleTool.exe" 
+2018/8/7 12:50:58 
+2018/8/7 12:51:02 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/e4d159218f358e079d38925fe4e38039113854.flv.mp4 MP_5100941_1 MP_5100941_2
+2018/8/7 12:51:06 xesavp.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -sync video http://replay.xesv5.com/livecourse/8aaeb0315fdd1d7115ae85d646ded414113855.flv.mp4 MP_5105760_3 MP_5105760_4
+2018/9/1 16:57:01 XesPlayer.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo http://v2.xesv5.com/2015/03/9efbe673c0848f7134bedbee48286d96/v.m3u8 MP_5700834_1 MP_5700834_2 MP_5700834_3
+2018/9/1 16:57:02 
+2018/9/1 16:57:02 "C:\Windows\system32\SearchFilterHost.exe" 0 512 516 524 65536 520 
+2018/9/1 16:57:02 "C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe11_ Global\UsGthrCtrlFltPipeMssGthrPipe11 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon" 
+2018/9/1 16:57:20 "C:\Windows\system32\taskmgr.exe" /4
+2018/9/1 16:57:24 XesPlayer.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -ss 2 http://v2.xesv5.com/2015/03/9efbe673c0848f7134bedbee48286d96/v.m3u8 MP_5724528_4 MP_5724528_5 MP_5724528_6
+2018/9/1 17:01:42 C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+2018/9/1 17:01:42 "C:\Windows\system32\NOTEPAD.EXE" D:\1.txt
+2018/9/1 17:01:42 "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" 
+2018/9/1 17:01:42 "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="828.3.305748387\805288664" -childID 1 -isForBrowser -prefsHandle 1896 -prefsLen 18506 -schedulerPrefs 0001,2 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 828 "\\.\pipe\gecko-crash-server-pipe.828" 1960 tab
+2018/9/1 17:01:42 "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="828.0.631220100\1748676688" -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - "C:\Users\Administrator\AppData\LocalLow\Mozilla\Temp-{dd01fc13-ad29-45cd-8a6c-6a85ede8fcc1}" 828 "\\.\pipe\gecko-crash-server-pipe.828" 1428 gpu
+2018/9/1 17:01:42 "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="828.13.761597964\1085934624" -childID 2 -isForBrowser -prefsHandle 2472 -prefsLen 18506 -schedulerPrefs 0001,2 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 828 "\\.\pipe\gecko-crash-server-pipe.828" 2392 tab
+2018/9/1 17:01:42 "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="828.20.2146140705\2073845483" -childID 3 -isForBrowser -prefsHandle 2960 -prefsLen 22415 -schedulerPrefs 0001,2 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 828 "\\.\pipe\gecko-crash-server-pipe.828" 2972 tab
+2018/9/1 17:01:42 "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="828.27.1602082152\2025415510" -childID 4 -isForBrowser -prefsHandle 3528 -prefsLen 22415 -schedulerPrefs 0001,2 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 828 "\\.\pipe\gecko-crash-server-pipe.828" 3540 tab
+2018/9/1 17:01:42 C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+2018/9/1 17:01:42 "notepad.exe" C:\Users\Administrator\Downloads\v.m3u8
+2018/9/1 17:01:42 "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" -contentproc --channel="828.34.583248837\1498725989" -childID 5 -isForBrowser -prefsHandle 908 -prefsLen 22415 -schedulerPrefs 0001,2 -greomni "C:\Program Files (x86)\Mozilla Firefox\omni.ja" -appomni "C:\Program Files (x86)\Mozilla Firefox\browser\omni.ja" -appdir "C:\Program Files (x86)\Mozilla Firefox\browser" - 828 "\\.\pipe\gecko-crash-server-pipe.828" 2312 tab
+2018/9/1 17:01:44 C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+2018/9/1 17:29:27 XesPlayer.exe  -af aformat=sample_fmts=s16:sample_rates=44100:channel_layouts=stereo -ss 6881 -sync video http://replay.xescdn.com/livecourse/48a8e55af17c0912b3a3616d3320b83186759.flv.mp4 MP_2926630_1 MP_2926630_2 MP_2926630_3
+2018/9/1 17:29:28 \??\C:\Windows\system32\conhost.exe "-209888359614365754031315903697-8165679778921063301194346434119667269-1053450473
+2018/9/1 17:29:28 
+2018/9/1 17:29:28 "C:\Program Files (x86)\XesLiveClient\Xes_Live_v1.5.9\AudioAccess.exe"  ASS_2927673_1 2475791 "" "" 86759 2 -1 1
+2018/9/1 17:29:31 C:\Windows\SysWOW64\WerFault.exe -u -p 5492 -s 740
+
+<script src="counter.js"></script>
